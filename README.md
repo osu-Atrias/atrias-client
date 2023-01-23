@@ -1,2 +1,2 @@
 # atrias-client
-release palceholder
+release placeholder
